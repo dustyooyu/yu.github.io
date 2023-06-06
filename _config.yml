@@ -1,11 +1,12 @@
 # Setup
-title: yu's Blog
+title: Yu's Blog
 description: 차근차근 알아가기
 url: https://yu.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
+comments: true
 
 # Gems
 plugins:
@@ -50,10 +51,10 @@ sass:
 # google_analytics: UA-000000-0
 
 # Replace this value and uncomment to enable Disqus
-  disqus: "yunn"
+disqus: yunn
 
 # Specify the author for blog posts
 # author:
-#   name: Songzi Vong
+#   name: yun
 #   url: https://github.com/vszhub/
 #   email: vszhub@gmail.com
