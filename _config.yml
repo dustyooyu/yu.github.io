@@ -50,10 +50,10 @@ sass:
 # google_analytics: UA-000000-0
 
 # Replace this value and uncomment to enable Disqus
-# disqus: xxxxxx
+ disqus: yunn
 
 # Specify the author for blog posts
-author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+# author:
+#   name: Songzi Vong
+#   url: https://github.com/vszhub/
+#   email: vszhub@gmail.com
